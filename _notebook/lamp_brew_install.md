@@ -1,6 +1,7 @@
 # LAMP Stack Install via Homebrew
 
-**_Nevermind... decided to go with XAMPP instead_**
+**_Nevermind... decided to go with XAMPP instead_**  
+**_why do I do this to myself?_**
 
 ## Apache Web Server
 Install Apache

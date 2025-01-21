@@ -1,0 +1,7 @@
+101 - VistA Station 101 (Atlanta, GA)
+102 - VistA Station 102 (Birmingham, AL)
+103 - VistA Station 103 (Charlotte, NC)
+104 - VistA Station 104 (Dover, DE)
+105 - VistA Station 105 (East Lansing, MI)
+106 - VistA Station 106 (Fairfax, VA)
+107 - VistA Station 107 (Gainesville, FL)
